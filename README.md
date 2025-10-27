@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on ITMD<br>💻 Passionate about: Software Development | DevOps | AI/ML<br>🌱 I’m currently learning: Java, React, Spring Boot, Flutter, Node.js (Express)<br>📫 Reach me at: isurumarasinghe781@gmail.com<br>
+🎓 I’m a **Third-Year Computer Science student at IIT (University of Westminster - UoW)**  
+🔭 I’m currently working on **ITMD**  
+💻 Passionate about: **Software Development | DevOps | AI/ML**  
+🌱 I’m currently learning: **Java, React, Spring Boot, Flutter, Node.js (Express)**  
+📫 Reach me at: **isurumarasinghe781@gmail.com**
+
 
 
 ## 🌐 Socials:
